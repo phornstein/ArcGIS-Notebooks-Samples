@@ -3,7 +3,7 @@ A variety of sample notebooks using the ArcGIS API for Python
 
 These notebooks serve as samples of how the ArcGIS API for Python and Notebook server can automate several tasks such as Portal Management, Content Curration, and Analysis
 
-#License
+# License
 
 
 Copyright © 2022 Esri
