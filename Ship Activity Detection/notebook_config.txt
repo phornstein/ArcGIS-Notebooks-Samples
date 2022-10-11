@@ -1,0 +1,4 @@
+{
+    "gis_usr": "<GIS USERNAME>",
+    "gis_pwd": "<GIS PASSWORD>"
+}
