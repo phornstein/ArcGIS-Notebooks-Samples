@@ -1,0 +1,6 @@
+{
+    "s3_access_key":"",
+    "s3_secret_access_key":"",
+    "copernicus_usr":"",
+    "copernicus_pwd":""
+}
