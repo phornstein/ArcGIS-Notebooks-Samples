@@ -7,6 +7,6 @@ This notebook utilizes the ArcGIS Geoanalytics server to process global AIS data
 
 The notebook with default parameters is designed to be run every 4 hours against the 6 most recent hours of AIS data.
 
-![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/Ship%20Activity%20Detection/Dashboard1.JPG?raw=true)
+![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/(Analysis)%20Ship%20Activity%20Detection/Dashboard1.JPG?raw=true)
 
-![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/Ship%20Activity%20Detection/Dashboard2.JPG?raw=true)
+![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/(Analysis)%20Ship%20Activity%20Detection/Dashboard2.JPG?raw=true)

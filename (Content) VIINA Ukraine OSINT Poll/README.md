@@ -4,4 +4,4 @@ This notebook is an example of how ArcGIS Notebooks can be used to currate conte
 
 See https://github.com/zhukovyuri/VIINA/ for more information on the Violence Incident Information from News Articles (VIINA) dataset.
 
-![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/VIINA%20Ukraine%20OSINT%20Poll/Dashboard.JPG?raw=true)
+![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/(Content)%20VIINA%20Ukraine%20OSINT%20Poll/Dashboard.JPG?raw=true)
