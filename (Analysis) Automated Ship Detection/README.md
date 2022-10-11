@@ -6,4 +6,4 @@ The notebook uses an ArcGIS feature service with collection targets to query Cop
 
 This notebook also includes the logic to upload the downloaded images to a S3 bucket, update a mosaic dataset stored in a SDE for an Image Service, and updates a layer of the footprints of collections.
 
-![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/Automated%20Ship%20Detection/dashboard.JPG?raw=true)
+![alt text](https://github.com/phornstein/ArcGIS-Notebooks-Samples/blob/main/(Analysis)%20Automated%20Ship%20Detection/dashboard.JPG?raw=true)
